@@ -1,0 +1,301 @@
+{
+  "personal_information": {
+    "name": "Hermawan Susanto",
+    "email": "diff1@live.com",
+    "phone_numbers": [
+      {
+        "number": "+81 70 8964 0691",
+        "location": "Tokyo, Japan"
+      },
+      {
+        "number": "+62 811 3980 8800",
+        "location": "Jakarta, Indonesia"
+      }
+    ],
+    "current_location": "Tokyo, Japan"
+  },
+  "professional_summary": "Engineering Manager with extensive experience in fintech modernization and cloud-native development. Specialized in Java Spring Boot and Python with proven expertise in migrating legacy systems to modern cloud architectures (AWS, GCP, AliCloud). Deep technical proficiency in containerization (Docker), orchestration (Kubernetes), and CI/CD pipelines (Jenkins, Bitbucket Pipelines). Successfully implemented self-hosted LLM models and AI-driven solutions in financial services, demonstrating strong capabilities in leveraging cutting-edge technologies for business transformation.",
+  "key_technical_highlights": [
+    "Hands-on Backend Development: Java Spring Boot, Python",
+    "Cloud Native Architecture: AWS, GCP, AliCloud",
+    "Container Orchestration: Kubernetes, Docker Swarm",
+    "Containerization: Docker, multi-stage builds, image optimization",
+    "CI/CD Pipelines: Jenkins Pipeline, Bitbucket Pipelines, GitLab CI",
+    "AI/LLM Implementation: Self-hosted LLM models, trained AI models for fintech",
+    "Microservices Architecture: Event-driven, distributed systems",
+    "Fintech Modernization: Legacy system migration, API modernization"
+  ],
+  "experience": [
+    {
+      "company": "Rakuten",
+      "location": "Japan",
+      "position": "Application Engineer",
+      "start_date": "March 2025",
+      "end_date": "Present",
+      "key_achievements": [
+        "Led cloud migration projects for legacy applications to Rakuten One-Cloud environments using containerization and Kubernetes orchestration",
+        "Redesigned legacy application architecture following cloud-native principles with Docker containerization and microservices patterns",
+        "Implemented comprehensive CI/CD pipelines using Jenkins and Bitbucket Pipelines for automated testing and deployment",
+        "Integrated AI and LLM capabilities to enhance development workflows and automation",
+        "Conducted performance testing and optimization for cloud-native applications (memory, CPU, storage utilization)",
+        "Hands-on development with Java Spring Boot for backend services modernization",
+        "Hands-on development with Python for scripting, and data processing"
+      ],
+      "technologies_used": [
+        "Java Spring Boot",
+        "Python",
+        "AWS",
+        "ROC",
+        "Kubernetes",
+        "Docker",
+        "Jenkins Pipeline",
+        "Bitbucket Pipelines",
+        "Python",
+        "AI/ML Integration"
+      ]
+    },
+    {
+      "company": "Tuntun Sekuritas",
+      "location": "Jakarta, Indonesia",
+      "position": "Engineering Manager",
+      "start_date": "Sept 2023",
+      "end_date": "March 2025",
+      "key_achievements": [
+        "Architected and deployed self-hosted Large Language Model (LLM) infrastructure for financial services automation and customer support",
+        "Implemented trained AI models for risk assessment, fraud detection, and trading signal analysis in securities trading platform",
+        "Led hands-on development of backend microservices using Java Spring Boot for core trading and settlement systems",
+        "Designed and implemented cloud-native infrastructure on AWS and GCP with Kubernetes orchestration for high availability",
+        "Established CI/CD pipelines using Jenkins and Bitbucket Pipelines, reducing deployment time by 70%",
+        "Implemented Docker containerization strategy across all microservices with multi-stage builds for optimized image sizes",
+        "Managed Kubernetes clusters for production workloads with auto-scaling, monitoring, and disaster recovery",
+        "Led performance optimization initiatives (memory, CPU, storage, database) resulting in 40% cost reduction",
+        "Developed Python-based data processing pipelines for real-time market data analysis and ML model training"
+      ],
+      "technologies_used": [
+        "Java Spring Boot",
+        "Python",
+        "Self-hosted LLM (GPT-based models)",
+        "TensorFlow/PyTorch for AI models",
+        "AWS (EC2, EKS, S3, RDS)",
+        "GCP (GKE, Cloud Storage, BigQuery)",
+        "Kubernetes",
+        "Docker",
+        "Jenkins Pipeline",
+        "Bitbucket Pipelines",
+        "Apache Kafka",
+        "Redis",
+        "PostgreSQL",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "company": "SG-EDTS (Salim Group)",
+      "location": "Jakarta, Indonesia",
+      "position": "Sr. Engineering Manager",
+      "start_date": "Sept 2020",
+      "end_date": "2023",
+      "key_achievements": [
+        "Led backend division with hands-on involvement in Java Spring Boot microservices development",
+        "Designed and implemented cloud-native microservices architecture on AliCloud and AWS",
+        "Established containerization standards using Docker and orchestrated deployments with Kubernetes",
+        "Implemented Jenkins-based CI/CD pipelines for automated build, test, and deployment processes",
+        "Migrated monolithic applications to microservices architecture with event-driven patterns using Kafka"
+      ],
+      "technologies_used": [
+        "Java Spring Boot",
+        "AWS",
+        "AliCloud",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "Apache Kafka",
+        "MySQL",
+        "Redis"
+      ]
+    },
+    {
+      "company": "PT. Cashlez Worldwide Indonesia Tbk",
+      "location": "Jakarta, Indonesia",
+      "position": "Technical Lead",
+      "start_date": "Sept 2019",
+      "end_date": "Sept 2020",
+      "key_achievements": [
+        "Led backend team in developing micropayment and digital wallet solutions using Java Spring Boot",
+        "Designed scalable database architecture for high-volume transaction processing",
+        "Implemented RESTful APIs for payment gateway integration and merchant services",
+        "Applied cloud deployment strategies and containerization for payment processing systems"
+      ],
+      "technologies_used": [
+        "Java Spring Boot",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "company": "INDIVARA (Holding of JATIS)",
+      "location": "Jakarta, Indonesia",
+      "position": "Technical Lead",
+      "start_date": "Aug 2016",
+      "end_date": "Sept 2019",
+      "key_achievements": [
+        "Led technical implementation of enterprise applications using Java Spring Framework",
+        "Designed database architecture and business process flows for multiple client projects",
+        "Developed standardized design patterns and coding guidelines for development teams",
+        "Implemented microservices-based solutions for e-commerce and logistics clients"
+      ],
+      "technologies_used": [
+        "Java Spring Framework",
+        "PostgreSQL",
+        "Oracle",
+        "RESTful APIs"
+      ]
+    }
+  ],
+  "core_technical_skills": {
+    "backend_development": {
+      "primary": [
+        "Java",
+        "Spring Boot",
+        "Spring Framework",
+        "Python"
+      ],
+      "proficiency": "Expert - 10+ years of hands-on development"
+    },
+    "cloud_native": {
+      "platforms": [
+        "Amazon Web Services (AWS)",
+        "Google Cloud Platform (GCP)",
+        "AliCloud"
+      ],
+      "services": [
+        "EC2, EKS, S3, RDS, Lambda (AWS)",
+        "GKE, Cloud Storage, BigQuery, Cloud Functions (GCP)",
+        "AliCloud Container Service, OSS, RDS (AliCloud)"
+      ]
+    },
+    "orchestration": {
+      "primary": [
+        "Kubernetes (EKS, GKE, self-managed)",
+        "Docker Swarm",
+        "Helm Charts"
+      ],
+      "capabilities": [
+        "Cluster management and auto-scaling",
+        "Service mesh implementation",
+        "Monitoring and observability (Prometheus, Grafana)"
+      ]
+    },
+    "containerization": {
+      "tools": [
+        "Docker",
+        "Docker Compose",
+        "Multi-stage builds",
+        "Container registries (ECR, GCR, DockerHub)"
+      ],
+      "expertise": [
+        "Image optimization and security scanning",
+        "Container networking and storage",
+        "Dockerfile best practices"
+      ]
+    },
+    "cicd": {
+      "pipelines": [
+        "Jenkins Pipeline (Declarative & Scripted)",
+        "Bitbucket Pipelines",
+        "GitLab CI/CD",
+        "GitHub Actions"
+      ],
+      "practices": [
+        "Automated testing integration",
+        "Blue-green deployments",
+        "Canary releases",
+        "Infrastructure as Code (Terraform, CloudFormation)"
+      ]
+    },
+    "ai_and_machine_learning": {
+      "llm_experience": [
+        "Self-hosted LLM deployment and fine-tuning",
+        "LLM integration for business automation",
+        "Prompt engineering and optimization"
+      ],
+      "ml_frameworks": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn"
+      ],
+      "applications": [
+        "Fraud detection models",
+        "Risk assessment AI",
+        "Customer service chatbots",
+        "Trading signal analysis"
+      ]
+    },
+    "architecture_and_design": [
+      "Microservices Architecture",
+      "Cloud-Native Architecture",
+      "Event-Driven Architecture",
+      "Domain-Driven Design (DDD)",
+      "API Gateway patterns",
+      "CQRS and Event Sourcing"
+    ],
+    "databases_and_storage": {
+      "relational_databases": [
+        "PostgreSQL",
+        "MySQL",
+        "Oracle"
+      ],
+      "nosql_databases": [
+        "MongoDB",
+        "Elasticsearch"
+      ],
+      "in_memory_datastores": [
+        "Redis",
+        "Memcached"
+      ],
+      "data_warehousing": [
+        "BigQuery",
+        "Redshift"
+      ]
+    },
+    "messaging_and_streaming": [
+      "Apache Kafka",
+      "Google Pub/Sub",
+      "RabbitMQ",
+      "ActiveMQ",
+      "AWS SQS/SNS"
+    ],
+    "monitoring_and_observability": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack (Elasticsearch, Logstash, Kibana)",
+      "Jaeger (Distributed Tracing)",
+      "CloudWatch",
+      "Stackdriver"
+    ]
+  },
+  "industry_knowledge": [
+    "Fintech & Payment Processing",
+    "Securities Trading & Settlement",
+    "Digital Banking & Micropayment",
+    "Financial Services Modernization",
+    "E-Commerce",
+    "Loyalty Programs",
+    "Logistics & Supply Chain"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information System",
+      "institution": "Bina Nusantara University",
+      "start_date": "Sept 2009",
+      "end_date": "June 2014"
+    }
+  ],
+  "certifications_and_training": [
+    "AWS Solutions Architect",
+    "Kubernetes Administration",
+    "Machine Learning & AI Implementation"
+  ]
+}
