@@ -1,0 +1,167 @@
+{
+  "personal_information": {
+    "name": "Hermawan Susanto",
+    "email": "diff1@live.com",
+    "phone_numbers": [
+      {
+        "number": "+81 70 8964 0691",
+        "location": "Tokyo, Japan"
+      },
+      {
+        "number": "+62 811 3980 8800",
+        "location": "Jakarta, Indonesia"
+      }
+    ],
+    "current_location": "Tokyo, Japan"
+  },
+  "professional_summary": "Engineering Manager with strong hands-on backend expertise in Java (Spring Boot) and Python, combined with extensive experience in designing scalable, distributed systems using microservices architecture. Highly proficient in cloud-native development across multi-cloud environments including GCP, AWS, AliCloud, and Rakuten One Cloud (ROC). Experienced in containerization (Docker), orchestration (Kubernetes), and building robust CI/CD pipelines using Bitbucket Pipelines and Jenkins. Actively involved in AI/LLM initiatives, including development and deployment of self-hosted large language models and custom-trained AI systems, enabling intelligent automation and enhanced engineering productivity.",
+  "experience": [
+    {
+      "company": "Rakuten",
+      "location": "Japan",
+      "position": "Application Engineer",
+      "start_date": "March 2025",
+      "end_date": "Present",
+      "responsibilities": [
+        "Hands-on backend development using Java (Spring Boot) and Python for scalable and high-performance services",
+        "Migrating and modernizing legacy applications into cloud-native architectures using Rakuten One Cloud (ROC) and other cloud platforms",
+        "Redefining system architecture to align with microservices and cloud-native best practices",
+        "Designing and implementing containerized solutions using Docker and orchestrating workloads with Kubernetes",
+        "Building and maintaining CI/CD pipelines using Bitbucket Pipelines and Jenkins for automated deployment and delivery",
+        "Implementing AI-driven solutions to enhance development workflows and productivity",
+        "Conducting performance testing, optimization, and fine-tuning of applications (CPU, memory, and I/O efficiency)"
+      ]
+    },
+    {
+      "company": "Tuntun Sekuritas",
+      "location": "Jakarta, Indonesia",
+      "position": "Engineering Manager",
+      "start_date": "Sept 2023",
+      "end_date": "March 2025",
+      "responsibilities": [
+        "Manage and mentor teams of Backend Engineers, and Data Engineers, supporting their growth and performance",
+        "KPI Planning and Review, One on one session, Company strategic meeting",
+        "Initiate discovery/brainstorming/troubleshooting session, code reviews, and ensure adherence to programming standards",
+        "Architect and oversee cloud infrastructure and microservices design for scalability and reliability",
+        "Provide technical direction to a cross-functional development team",
+        "Performance fine tuning (memory, cpu, and storage usage, database utilization)",
+        "Review technical documentation and Product Requirement Documents (PRDs) to ensure clarity and alignment in technical aspects",
+        "Promote and implement DevOps practices such as CI/CD pipelines, automated testing, and containerization (e.g., Docker, Kubernetes) for efficient deployment",
+        "Act as a bridge between business and technology teams, ensuring effective communication of technical requirements and project progress",
+        "Led development and deployment of self-hosted LLM solutions and custom-trained AI models to support internal tools and business use cases",
+        "Implemented AI-driven systems leveraging fine-tuned models to improve operational efficiency and decision-making"
+      ]
+    },
+    {
+      "company": "SG-EDTS (Salim Group)",
+      "location": "Jakarta, Indonesia",
+      "position": "Sr. Engineering Manager",
+      "start_date": "Sept 2020",
+      "end_date": "2023",
+      "responsibilities": [
+        "Manager for Backend Division: Leading the backend division",
+        "Lead Discovery Sessions, Sharing Sessions, Code Reviews, and Programming Standardization: Conducting sessions and reviews to ensure high standards",
+        "Cloud and Microservices Architect: Designing and implementing cloud and microservices architectures"
+      ]
+    },
+    {
+      "company": "PT. Cashlez Worldwide Indonesia Tbk",
+      "location": "Jakarta, Indonesia",
+      "position": "Technical Lead",
+      "start_date": "Sept 2019",
+      "end_date": "Sept 2020",
+      "responsibilities": [
+        "Team Leader for Backend Division: Leading the backend team",
+        "Lead Discovery Sessions: Identifying user requirements and establishing the overall direction of the application mechanism",
+        "Database Design: Designing the database structure and database relations"
+      ]
+    },
+    {
+      "company": "INDIVARA (Holding of JATIS)",
+      "location": "Jakarta, Indonesia",
+      "position": "Technical Lead",
+      "start_date": "Aug 2016",
+      "end_date": "Sept 2019",
+      "responsibilities": [
+        "Team Leader for Design Guides: Developing internal and external design guides from concept to development",
+        "Lead Discovery Sessions: Identifying product requirements and establishing the overall direction of the application mechanism",
+        "Database and UX Design: Designing the database structure, business processes, user experience, and user interface"
+      ]
+    },
+    {
+      "company": "PT. Satria Kurnia Sentosa Integrasi",
+      "location": "Jakarta, Indonesia",
+      "position": "Software Engineer",
+      "start_date": "Feb 2014",
+      "end_date": "Aug 2016",
+      "responsibilities": [
+        "Developing a web based Human Resources Application (HRIS) using Eclipse for the IDE, Java, Hibernate and ZK Framework. Utilizing MSSQL for the Database. The calculation logic were also put inside the MSSQL Stored Procedure",
+        "Developing a mobile based Human Resources Application (Native) for Android using Android Studio for the IDE, Java, Volley. Utilizing MSSQL for the Database. The calculation logic were also put inside the MSSQL Stored Procedure"
+      ]
+    }
+  ],
+  "core_technical_skills": {
+    "programming_and_frameworks": [
+      "Java",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "architecture_and_design": [
+      "Distributed & Scalable Systems",
+      "Cloud-Native Architecture",
+      "Domain-Driven Design (DDD)",
+      "Event-Driven Architecture"
+    ],
+    "cloud_and_infrastructure": [
+      "Google Cloud Platform (GCP)",
+      "Amazon Web Services (AWS)",
+      "Ali Cloud"
+    ],
+    "devops_and_cicd": [
+      "GitLab",
+      "Bitbucket",
+      "Jenkins",
+      "Bitbucket Pipelines",
+      "CI/CD Automation"
+    ],
+    "databases_and_storage": {
+      "relational_databases": [
+        "MySQL",
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "nosql_databases": [
+        "Elasticsearch",
+        "MongoDB"
+      ],
+      "in_memory_datastores": [
+        "Redis",
+        "Memcached",
+        "H2"
+      ]
+    },
+    "messaging_and_streaming": [
+      "Apache Kafka",
+      "Google Pub/Sub",
+      "RabbitMQ",
+      "ActiveMQ"
+    ]
+  },
+  "industry_knowledge": [
+    "Securities",
+    "Financial Industry/Micropayment",
+    "Loyalty",
+    "E-Commerce",
+    "Human Resource Information System",
+    "Logistics"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information System",
+      "institution": "Bina Nusantara University",
+      "start_date": "Sept 2009",
+      "end_date": "June 2014"
+    }
+  ]
+}
